@@ -1,11 +1,11 @@
 ![Forge](http://creations-inventostarz.pages.dev/data/img/available-forge.png) ![Fabric](http://creations-inventostarz.pages.dev/data/img/available-fabric.png) [![Join The Discord Now](https://creations-inventostarz.pages.dev/data/img/chat-discord.png)](https://discord.gg/Y4tn3mSz)
 
-# Custom TNT Lib (CTL)
-**Custom TNT Lib** is a TNT Lib Mod that makes coding TNT's more easier
+# Render Maximus
+**Render MAximus** is a rendering and world generation mod that makes the world loadingg better by loading alot of chunks before itslef and make s the rendering better.
 
-This means:
-* Easier TNT Mods
-* Clean API for developers
-* Not a coremod – no dependencies other than Forge.
+This makes:
+* World Loading Better
+* Higher Render Distance
+* Beautiful Views
 
-### [JEI Developer Wiki](https://github.com/Abhinav2011VS/CTL-CustomTNTLibMod/wiki)
+### [Render Maximus Developer Wiki](https://github.com/Abhinav2011VS/RenderMaximusMod/wiki)
