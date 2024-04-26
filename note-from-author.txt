@@ -1,5 +1,5 @@
-This is the latest source code of CTL.
-Minecraft version: 1.20.1, mod version: 1.0.0.
+This is the latest source code of Render Maximus.
+Minecraft version: 1.20.1, mod version: 1.0.
 
 Please don't distribute without permission.
 For all Minecraft modding projects, feel free to visit my profile page on CurseForge or Modrinth.
@@ -7,4 +7,4 @@ For all Minecraft modding projects, feel free to visit my profile page on CurseF
  Modrinth: https://modrinth.com/user/InventoStarz
  Overview: https://creations-inventostarz,pages.dev/
 
-Thanks for looking at the source code! Hope it's of some use to your project. Happy modding!
+Thanks for looking at the source code! Hope it's of some use for you. Happy Playing!
